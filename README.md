@@ -1,10 +1,11 @@
-##Desafio:
+## Desafio:
+
 Lucro da ação
 O senhor e-Deployer gostaria de comprar uma ação e vendê-la em um curto espaço de tempo, mas apenas se esta operação dê lucro. Para isso, é passado um array K com os valores das ações nos determinados dias, onde ele poderá escolher onde comprar e vender.
 
 Determine o maior lucro dado esse array K de preços.
 
-####Exemplo 1:
+#### Exemplo 1:
 
 
 Input: [7,1,5,3,6,4]
@@ -16,7 +17,7 @@ Explicação: Este valor acontece quando compramos a ação no 2o dia e a vendem
 
 
 
-####Exemplo 2:
+#### Exemplo 2:
 
 Input: [7,6,4,3,1]
 
